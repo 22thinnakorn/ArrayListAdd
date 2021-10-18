@@ -1,0 +1,15 @@
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\bin\Debug\ArrayListAdd.exe.config
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\bin\Debug\ArrayListAdd.exe
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\bin\Debug\ArrayListAdd.pdb
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.csproj.AssemblyReference.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\MainWindow.g.cs
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\App.g.cs
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd_MarkupCompile.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd_MarkupCompile.lref
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\MainWindow.baml
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.g.resources
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.Properties.Resources.resources
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.csproj.GenerateResource.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.csproj.CoreCompileInputs.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.exe
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\ArrayListAdd\ArrayListAdd\obj\Debug\ArrayListAdd.pdb
